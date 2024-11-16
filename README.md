@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/im-mahmudul/im-mahmudul/master/name.svg" alt="Mahmudul Hasan Shovon" />
-</h1>
-
 # 💫 About Me:
 Hello! I'm Mahmudul Hasan Shovon , CSE Student at United International University | Web & Cybersecurity Enthusiast | OSINT Engineer | Java | C | Problem Solving. My journey involves mastering the intricacies of C language, where I explore the art of coding and problem-solving. Eager to contribute my skills, I am dedicated to enhancing my knowledge and capabilities. My academic pursuits span algorithms, data structures, and software development. I'm excited to connect with like-minded individuals, students, and professionals, fostering collaboration and continuous learning. Join me as we embark on this exciting tech adventure, turning ideas into tangible solutions and making a difference in the digital world.
 
@@ -19,6 +15,3 @@ Hello! I'm Mahmudul Hasan Shovon , CSE Student at United International Universit
 ---
 [![](https://visitcount.itsvg.in/api?id=im-mahmudul&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/im-mahmudul/im-mahmudul/output/snake.svg" alt="Snake animation" />
-
-###
