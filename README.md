@@ -15,3 +15,4 @@ Hello! I'm Mahmudul Hasan Shovon, a dedicated computer science student at United
 ---
 [![](https://visitcount.itsvg.in/api?id=im-mahmudul&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-mahmudul&show_icons=true&locale=en" alt="im-mahmudul" /></p>
