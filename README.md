@@ -1,6 +1,6 @@
 ## Hi, I'm Mahmudul Hasan Shovon
 
-- A dedicated computer science student at United International University
+- A dedicated computer science student at Presidency University
 - Passion for cybersecurity, network security, digital forensics, critical thinking, web security, etc.
 - Serving as the Team Leader for an IoT-focused research group, overseeing innovative projects and driving collaborative efforts in emerging technologies.
 - Currently pursuing advanced training in Networking (Routing and Switching) through the Cisco Networking Academy.
